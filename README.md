@@ -105,7 +105,11 @@
   * [Assignment: Model Interpretation Methods](https://github.com/HAlex94/DeepLearning.AI-AI-for-Medicine-Specialization/blob/main/AI%20for%20Medical%20Treatment/Week_3/C3_W3_Assignment.ipynb)
 
 
+ &nbsp;
  
+ &nbsp;
+ 
+ &nbsp;
 
 Template (Don't delete yet)
 ## Course 1: []()
