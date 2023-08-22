@@ -106,49 +106,6 @@
 
 
  &nbsp;
- 
- &nbsp;
- 
- &nbsp;
-
-Template (Don't delete yet)
-## Course 1: []()
-
-* [Week 1]()
-
-  * [Labs]()
-    * []()
-    * []()
-  * [Assignment: ]()
- 
-&nbsp;
-
-* [Week 2]()
-
-  * [Labs]()
-    * []()
-    * []()
-  * [Assignment: ]()
- 
-&nbsp;
-
-* [Week 3]()
-
-  * [Labs]()
-    * []()
-    * []()
-  * [Assignment: ]()
- 
-&nbsp;
-
-* [Week 4]()
-
-  * [Labs]()
-    * []()
-    * []()
-  * [Assignment: ]()
- 
-&nbsp;
 
  
  
